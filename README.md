@@ -29,7 +29,7 @@ Easy way to falcificate some project by your custom configuration.
        buildPhases: <list of build phases>
 ```
            
-2. Run `fake --y <path to .yml> --proj <path to project>`  
+2. Run `fake --yml <path to .yml> --proj <path to project>`  
 
 ## Installing
 - From source: `make install`
